@@ -103,6 +103,12 @@ markdown_extensions:
 nav:
   - Accueil: index.md
   - À propos: about.md
+  - Portfolio réel:
+      - Vue d'ensemble: portfolio-reel.md
+      - Projets réels:
+          - MAR25_BDS_Compagnon_Immo: projects/mar25-bds-compagnon-immo.md
+          - VALMED-AUTOMATISATION: projects/valmed-automatisation.md
+          - SaaS: projects/saas.md
   - Projets:
       - Aperçu: projects/index.md
       - Template: projects/template.md
