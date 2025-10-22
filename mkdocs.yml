@@ -14,14 +14,14 @@ theme:
   palette:
     # Palette de couleurs pour la data science
     - scheme: default
-      primary: indigo
-      accent: blue
+      primary: deep-purple
+      accent: cyan
       toggle:
         icon: material/brightness-7
         name: Passer au mode sombre
     - scheme: slate
-      primary: indigo
-      accent: blue
+      primary: deep-purple
+      accent: cyan
       toggle:
         icon: material/brightness-4
         name: Passer au mode clair
@@ -32,11 +32,17 @@ theme:
     - navigation.expand
     - navigation.path
     - navigation.top
+    - navigation.indexes
+    - navigation.footer
     - search.highlight
     - search.share
     - search.suggest
     - content.code.copy
     - content.code.annotate
+    - content.code.select
+    - content.tabs.link
+    - content.action.edit
+    - content.action.view
   icon:
     repo: fontawesome/brands/github
     edit: material/pencil
@@ -73,8 +79,8 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.snippets
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.superfences
   - pymdownx.arithmatex:
       generic: true
@@ -137,29 +143,19 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/loick-dernoncourt
+      link: https://github.com/LoickDIA
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/loick-dernoncourt
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/loick_dernoncourt
+      link: https://www.linkedin.com/in/loick-dernoncourt-241b8b123
     - icon: fontawesome/solid/envelope
-      link: mailto:loick.dernoncourt@example.com
+      link: mailto:Dernoncourt.ck@gmail.com
   version:
     provider: mike
   analytics:
     provider: google
     property: G-XXXXXXXXXX
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/loick-dernoncourt
-    - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/loick-dernoncourt
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/loick_dernoncourt
-    - icon: fontawesome/solid/envelope
-      link: mailto:loick.dernoncourt@example.com
   consent:
     title: Politique de confidentialité
     description: >-
       Ce site utilise des cookies pour améliorer votre expérience de navigation.
       En continuant à utiliser ce site, vous acceptez notre utilisation des cookies.
+  generator: false
