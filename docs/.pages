@@ -1,0 +1,28 @@
+# Configuration des pages
+# Ce fichier permet de personnaliser l'ordre et l'affichage des pages
+
+# Ordre des sections principales
+nav:
+  - Accueil: index.md
+  - À propos: about.md
+  - Projets: projects/
+  - Compétences: skills/
+  - Innovations: innovations.md
+  - Contact: contact.md
+
+# Configuration des projets
+projects:
+  - index.md
+  - template.md
+  - detection-objets-temps-reel.md
+  - classification-textes-avancee.md
+  - prediction-churn-avancee.md
+  - exemples/
+
+# Configuration des compétences
+skills:
+  - index.md
+  - machine-learning.md
+  - deep-learning.md
+  - data-engineering.md
+  - visualisation.md

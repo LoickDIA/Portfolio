@@ -14,22 +14,34 @@ Je suis **Loïck Dernoncourt**, data scientist passionné par l'intelligence art
 ## 🛠️ Stack technique
 
 ### Langages de programmation
-- **Python** : Expert (5+ ans)
-- **R** : Intermédiaire (3 ans)
-- **SQL** : Expert (5+ ans)
-- **JavaScript** : Intermédiaire (2 ans)
+- **Python** : Expert (5+ ans) - 90% des projets
+- **R** : Intermédiaire (3 ans) - Analyses statistiques
+- **SQL** : Expert (5+ ans) - 100% des projets
+- **JavaScript** : Intermédiaire (2 ans) - Dashboards interactifs
+- **Scala** : Intermédiaire (2 ans) - Big Data avec Spark
 
 ### Frameworks et bibliothèques
-- **Machine Learning** : Scikit-learn, XGBoost, LightGBM
-- **Deep Learning** : PyTorch, TensorFlow, Keras
-- **Data Processing** : Pandas, NumPy, Spark
-- **Visualisation** : Matplotlib, Seaborn, Plotly, Tableau
+- **Machine Learning** : Scikit-learn, XGBoost, LightGBM, CatBoost
+- **Deep Learning** : PyTorch, TensorFlow, Keras, HuggingFace Transformers
+- **Computer Vision** : OpenCV, YOLO, Detectron2, Albumentations
+- **NLP** : BERT, RoBERTa, T5, spaCy, NLTK, Transformers
+- **Data Processing** : Pandas, NumPy, Spark, Dask, Polars
+- **Visualisation** : Matplotlib, Seaborn, Plotly, Bokeh, Streamlit
 
 ### Outils et plateformes
-- **Cloud** : AWS, Google Cloud Platform, Azure
-- **Conteneurisation** : Docker, Kubernetes
-- **CI/CD** : GitHub Actions, GitLab CI
-- **Monitoring** : MLflow, Weights & Biases, TensorBoard
+- **Cloud** : AWS (S3, EC2, ECS, Lambda), Google Cloud Platform, Azure
+- **Conteneurisation** : Docker, Kubernetes, Docker Compose
+- **CI/CD** : GitHub Actions, GitLab CI, Jenkins
+- **Monitoring** : MLflow, Weights & Biases, TensorBoard, Prometheus
+- **APIs** : FastAPI, Flask, Django REST, GraphQL
+- **Databases** : PostgreSQL, MongoDB, Redis, Elasticsearch
+
+### Technologies spécialisées
+- **Computer Vision** : YOLO v8, ResNet, EfficientNet, Vision Transformers
+- **NLP** : BERT, GPT, T5, Sentence Transformers, LangChain
+- **Time Series** : Prophet, ARIMA, LSTM, GRU, Transformer
+- **Reinforcement Learning** : OpenAI Gym, Stable Baselines3
+- **MLOps** : Kubeflow, MLflow, DVC, Airflow, Prefect
 
 ## 🎓 Formation et certifications
 

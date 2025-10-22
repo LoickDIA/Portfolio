@@ -12,7 +12,7 @@ Découvrez mes projets de data science et machine learning, de la conception à 
 
     CNN avec PyTorch pour la classification d'images médicales
 
-    [:octicons-arrow-right-24: Voir le projet](classification-images.md)
+    [:octicons-arrow-right-24: Voir le projet](exemples/classification-images.md)
 
 -   :material-heart:{ .lg .middle } **Analyse de sentiment**
 
@@ -20,7 +20,7 @@ Découvrez mes projets de data science et machine learning, de la conception à 
 
     Modèle BERT pour l'analyse de sentiment en temps réel
 
-    [:octicons-arrow-right-24: Voir le projet](analyse-sentiment.md)
+    [:octicons-arrow-right-24: Voir le projet](exemples/analyse-sentiment.md)
 
 -   :material-home:{ .lg .middle } **Prédiction de prix**
 
@@ -28,9 +28,59 @@ Découvrez mes projets de data science et machine learning, de la conception à 
 
     Modèle XGBoost pour la prédiction de prix immobiliers
 
-    [:octicons-arrow-right-24: Voir le projet](prediction-prix.md)
+    [:octicons-arrow-right-24: Voir le projet](exemples/prediction-prix.md)
 
 </div>
+
+## 📊 Taxonomie des projets
+
+### 🧠 Machine Learning
+- **Classification** : Modèles prédictifs pour la catégorisation
+- **Régression** : Prédiction de valeurs continues
+- **Clustering** : Segmentation et regroupement de données
+- **Feature Engineering** : Création et sélection de variables
+
+### 🎯 Deep Learning
+- **Computer Vision** : Traitement et analyse d'images
+- **NLP** : Traitement du langage naturel
+- **Time Series** : Analyse de séries temporelles
+- **Reinforcement Learning** : Apprentissage par renforcement
+
+### 📈 Analyse de données
+- **Exploratory Data Analysis** : Exploration et visualisation
+- **Business Intelligence** : Tableaux de bord et rapports
+- **Statistical Analysis** : Analyses statistiques avancées
+- **Data Mining** : Extraction de connaissances
+
+## 🏆 Projets par catégorie
+
+### 🖼️ Computer Vision
+| Projet | Technologies | Résultats | Statut |
+|--------|--------------|-----------|---------|
+| Classification d'images médicales | PyTorch, CNN, Transfer Learning | 95.2% accuracy | ✅ Terminé |
+| Détection d'objets en temps réel | YOLO, OpenCV, FastAPI | 99.5% precision | ✅ Terminé |
+| Reconnaissance faciale | CNN, OpenCV | 98.1% accuracy | ✅ Terminé |
+
+### 💬 Natural Language Processing
+| Projet | Technologies | Résultats | Statut |
+|--------|--------------|-----------|---------|
+| Analyse de sentiment | BERT, Transformers | 94.5% accuracy, 50ms | ✅ Terminé |
+| Classification de textes | TF-IDF, SVM, BERT | 92.3% accuracy | ✅ Terminé |
+| Génération de résumés | T5, HuggingFace | ROUGE-2: 0.45 | 🔄 En cours |
+
+### 📊 Analyse prédictive
+| Projet | Technologies | Résultats | Statut |
+|--------|--------------|-----------|---------|
+| Prédiction de prix immobiliers | XGBoost, Feature Engineering | RMSE: 0.15, R²: 0.87 | ✅ Terminé |
+| Prédiction de churn | Random Forest, SMOTE | 89.2% accuracy | ✅ Terminé |
+| Recommandation de produits | Collaborative Filtering | 25% amélioration conversion | ✅ Terminé |
+
+### 🔬 Recherche et innovation
+| Projet | Technologies | Résultats | Statut |
+|--------|--------------|-----------|---------|
+| Modèle de détection d'anomalies | Autoencoder, LSTM | 99.1% precision | ✅ Terminé |
+| Optimisation de portefeuille | Reinforcement Learning | +15% rendement | 🔄 En cours |
+| Analyse de réseaux sociaux | Graph Neural Networks | 87% accuracy | ✅ Terminé |
 
 ## 📊 Statistiques des projets
 

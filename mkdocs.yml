@@ -51,6 +51,11 @@ plugins:
       fallback_to_build_date: true
   - minify:
       minify_html: true
+  - awesome-pages:
+      filename: .pages
+  - mkdocs-jupyter:
+      include_default_css: true
+      execute: false
 
 # Markdown extensions
 markdown_extensions:
@@ -68,8 +73,8 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.snippets
   - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.superfences
   - pymdownx.arithmatex:
       generic: true
@@ -101,16 +106,25 @@ nav:
   - Projets:
       - Aperçu: projects/index.md
       - Template: projects/template.md
-      - Exemples:
+      - Computer Vision:
           - Classification d'images: projects/exemples/classification-images.md
+          - Détection d'objets temps réel: projects/detection-objets-temps-reel.md
+      - Natural Language Processing:
           - Analyse de sentiment: projects/exemples/analyse-sentiment.md
+          - Classification de textes: projects/classification-textes-avancee.md
+      - Analyse prédictive:
           - Prédiction de prix: projects/exemples/prediction-prix.md
+          - Prédiction de churn: projects/prediction-churn-avancee.md
   - Compétences:
       - Aperçu: skills/index.md
       - Machine Learning: skills/machine-learning.md
       - Deep Learning: skills/deep-learning.md
       - Data Engineering: skills/data-engineering.md
       - Visualisation: skills/visualisation.md
+  - Méthodologie: methodologie.md
+  - Lab: lab.md
+  - Feedback: feedback.md
+  - Innovations: innovations.md
   - Contact: contact.md
 
 # Extra
@@ -129,6 +143,15 @@ extra:
   analytics:
     provider: google
     property: G-XXXXXXXXXX
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/loick-dernoncourt
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/loick-dernoncourt
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/loick_dernoncourt
+    - icon: fontawesome/solid/envelope
+      link: mailto:loick.dernoncourt@example.com
   consent:
     title: Politique de confidentialité
     description: >-
