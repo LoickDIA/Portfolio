@@ -1,0 +1,136 @@
+site_name: Portfolio Data Science - Loïck Dernoncourt
+site_description: Portfolio professionnel de data science et machine learning
+site_author: Loïck Dernoncourt
+site_url: https://loick-dernoncourt.github.io/portfolio-site/
+
+# Repository
+repo_name: loick-dernoncourt/portfolio-site
+repo_url: https://github.com/loick-dernoncourt/portfolio-site
+edit_uri: edit/main/docs/
+
+# Configuration
+theme:
+  name: material
+  palette:
+    # Palette de couleurs pour la data science
+    - scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Passer au mode sombre
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Passer au mode clair
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.copy
+    - content.code.annotate
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil
+    view: material/eye
+
+# Plugins
+plugins:
+  - search:
+      lang: fr
+  - git-revision-date-localized:
+      enable_creation_date: true
+      fallback_to_build_date: true
+  - minify:
+      minify_html: true
+
+# Markdown extensions
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.snippets
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.magiclink
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.details
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.blocks.admonition
+  - pymdownx.blocks.details
+  - pymdownx.blocks.tab
+  - pymdownx.blocks.definition
+  - pymdownx.blocks.html
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+
+# Navigation
+nav:
+  - Accueil: index.md
+  - À propos: about.md
+  - Projets:
+      - Aperçu: projects/index.md
+      - Template: projects/template.md
+      - Exemples:
+          - Classification d'images: projects/exemples/classification-images.md
+          - Analyse de sentiment: projects/exemples/analyse-sentiment.md
+          - Prédiction de prix: projects/exemples/prediction-prix.md
+  - Compétences:
+      - Aperçu: skills/index.md
+      - Machine Learning: skills/machine-learning.md
+      - Deep Learning: skills/deep-learning.md
+      - Data Engineering: skills/data-engineering.md
+      - Visualisation: skills/visualisation.md
+  - Contact: contact.md
+
+# Extra
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/loick-dernoncourt
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/loick-dernoncourt
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/loick_dernoncourt
+    - icon: fontawesome/solid/envelope
+      link: mailto:loick.dernoncourt@example.com
+  version:
+    provider: mike
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+  consent:
+    title: Politique de confidentialité
+    description: >-
+      Ce site utilise des cookies pour améliorer votre expérience de navigation.
+      En continuant à utiliser ce site, vous acceptez notre utilisation des cookies.
