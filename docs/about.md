@@ -56,32 +56,30 @@ Je suis **Loïck Dernoncourt**, data scientist passionné par l'intelligence art
 
 ## 💼 Expérience professionnelle
 
-### Data Scientist Senior - TechCorp (2022-2024)
-- Développement de modèles de recommandation pour 1M+ utilisateurs
-- Amélioration de 25% des métriques de conversion
-- Mise en place de pipelines MLOps avec MLflow
+!!! info "🚀 En recherche active"
+    Actuellement en recherche d'opportunités passionnantes en data science et IA.
 
-### Data Scientist - StartupAI (2020-2022)
-- Création de modèles de classification d'images
-- Déploiement d'APIs de prédiction en temps réel
-- Collaboration avec les équipes produit et engineering
+### Projets personnels et académiques
+- **Compagnon Immo** : Prédiction de prix immobiliers avec R² > 0.96
+- **VALMED** : Automatisation de processus médicaux (en développement)
+- **SaaS Platform** : Template data-ready scalable
 
 ## 🏆 Projets marquants
 
-### 🎯 Système de recommandation multi-objectifs
-**Contexte** : E-commerce avec 1M+ produits  
-**Technologies** : PyTorch, Transformer, Redis  
-**Impact** : +25% de conversion, +15% de revenus
+### 🏠 Compagnon Immo - Prédiction immobilière
+**Contexte** : Prédiction de prix €/m² avec clustering spatio-temporel  
+**Technologies** : Python, FastAPI, Streamlit, joblib  
+**Impact** : R² > 0.96, MAE ~2.4k€/m², MAPE < 3%
 
-### 🖼️ Détection d'anomalies en temps réel
-**Contexte** : Surveillance de qualité industrielle  
-**Technologies** : CNN, OpenCV, FastAPI  
-**Impact** : 99.5% de précision, réduction de 40% des défauts
+### 🏥 VALMED - Automatisation médicale
+**Contexte** : Automatisation de processus médicaux  
+**Technologies** : Python, APIs, Machine Learning  
+**Impact** : En cours de développement
 
-### 📊 Plateforme d'analytics prédictive
-**Contexte** : SaaS B2B avec 10K+ clients  
-**Technologies** : Spark, MLflow, Kubernetes  
-**Impact** : Réduction de 60% du temps d'analyse
+### ☁️ SaaS Platform - Template data-ready
+**Contexte** : Architecture SaaS scalable pour projets data  
+**Technologies** : Python, APIs, Docker, CI/CD  
+**Impact** : Template réutilisable pour nouveaux projets
 
 ## 🎯 Mes valeurs
 
@@ -109,10 +107,27 @@ En dehors du travail, je suis passionné par :
 
 N'hésitez pas à me contacter pour discuter de projets, d'opportunités ou simplement échanger sur la data science !
 
-- 📧 **Email** : loick.dernoncourt@example.com
-- 💼 **LinkedIn** : [linkedin.com/in/loick-dernoncourt](https://linkedin.com/in/loick-dernoncourt)
-- 🐙 **GitHub** : [github.com/loick-dernoncourt](https://github.com/loick-dernoncourt)
-- 🐦 **Twitter** : [@loick_dernoncourt](https://twitter.com/loick_dernoncourt)
+<div class="grid cards" markdown>
+
+-   :material-email:{ .lg .middle } **Email**
+
+    ---
+
+    [Dernoncourt.ck@gmail.com](mailto:Dernoncourt.ck@gmail.com)
+
+-   :material-linkedin:{ .lg .middle } **LinkedIn**
+
+    ---
+
+    [Profil professionnel](https://www.linkedin.com/in/loick-dernoncourt-241b8b123)
+
+-   :material-github:{ .lg .middle } **GitHub**
+
+    ---
+
+    [Code & Projets](https://github.com/LoickDIA)
+
+</div>
 
 ---
 
