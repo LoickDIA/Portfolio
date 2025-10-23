@@ -4,25 +4,30 @@ N'hésitez pas à me contacter pour discuter de projets, d'opportunités ou simp
 
 ## 📧 Informations de contact
 
-### Email
-**loick.dernoncourt@example.com**
+<div class="grid cards" markdown>
 
-### Téléphone
-**+33 6 XX XX XX XX**
+-   :material-email:{ .lg .middle } **Email**
 
-### Adresse
-**Paris, France**
+    ---
 
-## 💼 Réseaux professionnels
+    [Dernoncourt.ck@gmail.com](mailto:Dernoncourt.ck@gmail.com)
 
-### LinkedIn
-[linkedin.com/in/loick-dernoncourt](https://linkedin.com/in/loick-dernoncourt)
+-   :material-linkedin:{ .lg .middle } **LinkedIn**
 
-### GitHub
-[github.com/loick-dernoncourt](https://github.com/loick-dernoncourt)
+    ---
 
-### Twitter
-[@loick_dernoncourt](https://twitter.com/loick_dernoncourt)
+    [Profil professionnel](https://www.linkedin.com/in/loick-dernoncourt-241b8b123)
+
+-   :material-github:{ .lg .middle } **GitHub**
+
+    ---
+
+    [Code & Projets](https://github.com/LoickDIA)
+
+</div>
+
+!!! success "🚀 Prêt à collaborer"
+    N'hésitez pas à me contacter pour discuter de projets, d'opportunités ou simplement échanger sur la data science !
 
 ## 🎯 Domaines d'expertise
 

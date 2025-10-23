@@ -191,10 +191,27 @@ Découvrez mes compétences en data science, machine learning et technologies as
 
 Intéressé par une collaboration ? N'hésitez pas à me contacter !
 
-- 📧 **Email** : loick.dernoncourt@example.com
-- 💼 **LinkedIn** : [linkedin.com/in/loick-dernoncourt](https://linkedin.com/in/loick-dernoncourt)
-- 🐙 **GitHub** : [github.com/loick-dernoncourt](https://github.com/loick-dernoncourt)
-- 🐦 **Twitter** : [@loick_dernoncourt](https://twitter.com/loick_dernoncourt)
+<div class="grid cards" markdown>
+
+-   :material-email:{ .lg .middle } **Email**
+
+    ---
+
+    [Dernoncourt.ck@gmail.com](mailto:Dernoncourt.ck@gmail.com)
+
+-   :material-linkedin:{ .lg .middle } **LinkedIn**
+
+    ---
+
+    [Profil professionnel](https://www.linkedin.com/in/loick-dernoncourt-241b8b123)
+
+-   :material-github:{ .lg .middle } **GitHub**
+
+    ---
+
+    [Code & Projets](https://github.com/LoickDIA)
+
+</div>
 
 ---
 
