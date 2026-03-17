@@ -10,46 +10,52 @@ Voici mes **projets réels** qui démontrent mes compétences en data science et
 ## 🏆 Projets phares
 
 ### Valmed — OCR médical automatisé
-**Problème** — Automatiser l'extraction de données médicales à partir de documents scannés pour réduire le temps de traitement manuel.
+*Freelance Data Scientist · 06/2025–10/2025 · 4 mois*
 
-**Approche** — Python, Tesseract, scikit-learn, OpenCV, supervision des modèles, pipeline de traitement d'images.
+**Problème** — Automatiser l'extraction de noms patients sur des ordonnances scannées pour réduire le traitement manuel en contexte santé.
 
-**Résultats** — Prototype validé avec amélioration observée du temps de traitement. Pipeline robuste pour différents types de documents médicaux.
+**Approche** — Conception d'un système OCR intelligent : pipeline de traitement d'image (OpenCV), extraction de texte (Tesseract), nettoyage et validation des données (Python, scikit-learn).
 
-**Enseignements** — 
-- L'importance de la qualité des données d'entrée pour l'OCR
-- Techniques de preprocessing d'images pour améliorer la précision
-- Gestion des cas d'erreur et validation des résultats
-
-🔗 **Liens** : [Code GitHub](https://github.com/LoickDIA) | [Documentation technique](https://github.com/LoickDIA)
-
-### Kéa Partners — IA interne d'entreprise
-**Problème** — Améliorer la productivité des consultants (~100 personnes) avec des outils d'IA pour la génération de contenu et l'assistance métier.
-
-**Approche** — Python, API OpenAI, développement de chatbot métier, génération automatique de slides, système de synthèse de réunions.
-
-**Résultats** — Déploiement MVP avec adoption interne. Formation de l'équipe sur les nouveaux outils. Gain de temps constaté sur les tâches répétitives.
+**Résultats** — Prototype exploitable livré en contexte métier santé avec logique d'amélioration continue. Pipeline robuste pour différents formats d'ordonnances.
 
 **Enseignements** —
-- Intégration d'APIs externes dans des workflows existants
-- Importance de la formation utilisateur pour l'adoption
-- Équilibre entre automatisation et contrôle humain
+- Qualité des données d'entrée = facteur clé pour l'OCR
+- Preprocessing d'images (seuillage, deskew, contraste) indispensable
+- Gestion des cas limites et validation des extractions
 
-🔗 **Liens** : [Code GitHub](https://github.com/LoickDIA) | [Documentation déploiement](https://github.com/LoickDIA)
+🔗 **Liens** : [GitHub LoickDIA](https://github.com/LoickDIA)
+
+### Kéa Partners — IA interne d'entreprise
+*Stage Data Scientist · 10/2024–12/2024 · Paris*
+
+**Problème** — Améliorer la productivité des consultants (~100 personnes) avec des outils d'IA pour la génération de contenu et l'assistance métier.
+
+**Approche** — Cadrage besoins, prototypage Python + API OpenAI, puis déploiement MVP sur intranet cabinet. Outils développés : chatbot métier, génération automatique de slides, synthèse de réunions.
+
+**Résultats** — MVP déployé, formation de plus de 100 consultants et animation d'ateliers de prise en main. Gain de temps constaté sur les tâches répétitives.
+
+**Enseignements** —
+- L'adoption utilisateur se prépare autant que le code
+- Les APIs OpenAI s'intègrent vite dans des workflows existants
+- La formation est une livrable à part entière
+
+🔗 **Liens** : [GitHub LoickDIA](https://github.com/LoickDIA)
 
 ### Compagnon Immobilier — Pipeline ML de prédiction
-**Problème** — Prédire les prix immobiliers en combinant données DVF, DPE et INSEE pour aider les investisseurs dans leurs décisions.
+*Projet de certification DataScientest · 03/2025–06/2025 · 3 mois*
 
-**Approche** — Python, Streamlit, séries temporelles, données géographiques, modèles de régression avancés.
+**Problème** — Prédire les prix immobiliers en combinant des données hétérogènes (DVF, DPE, INSEE) dans un pipeline ML complet.
 
-**Résultats** — Application Streamlit interactive déployée. Modèles entraînés sur données réelles. Code et démo disponibles sur GitHub.
+**Approche** — Collecte et intégration de données multi-sources, feature engineering, clustering, modèles de régression et séries temporelles (Prophet). Restitution via application Streamlit.
+
+**Résultats** — Application Streamlit interactive déployée. Modèles entraînés sur données réelles. Code disponible sur GitHub.
 
 **Enseignements** —
 - Gestion de données géographiques et temporelles complexes
-- Développement d'interfaces utilisateur pour les modèles ML
-- Importance de la validation croisée sur données immobilières
+- L'interface Streamlit rend le ML accessible aux non-techniques
+- Validation croisée adaptée aux données immobilières temporelles
 
-🔗 **Liens** : [Code GitHub](https://github.com/LoickDIA) | [Démo Streamlit](https://github.com/LoickDIA) | [Documentation](https://github.com/LoickDIA)
+🔗 **Liens** : [GitHub LoickDIA](https://github.com/LoickDIA)
 
 ## 🔬 Explorations & Lab
 
