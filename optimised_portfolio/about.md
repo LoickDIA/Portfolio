@@ -92,6 +92,7 @@ Je privilégie une approche **business-first** : comprendre le besoin métier av
 - **Git / GitHub** : versioning, collaboration
 - **Jupyter, VS Code** : développement
 - **Docker** (notions), **CI/CD** (bases), **Linux** (notions)
+- **AWS** : certifié (Cloud Practitioner)
 - **Spark / Big Data** (notions — certification DataScientest)
 
 ## 🎯 Mes valeurs
