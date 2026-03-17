@@ -63,17 +63,36 @@ Je privilégie une approche **business-first** : comprendre le besoin métier av
 
 ## 🛠️ Stack technique
 
-**Langages & Frameworks**
-- **Python** : pandas, scikit-learn, PyTorch, Streamlit
-- **Computer Vision** : OpenCV, Tesseract, traitement d'images
-- **NLP** : APIs OpenAI, chatbots, génération de contenu
-- **Data** : SQL, ETL, bases de données, APIs
+**Langages**
+- **Python** : pandas, NumPy, scikit-learn, XGBoost, Prophet
+- **SQL** : requêtes, analyse de portefeuille, ciblage data
 
-**Outils & Déploiement**
-- **MLOps** : Docker, CI/CD, monitoring basique
-- **Cloud** : AWS, architecture scalable
-- **Visualisation** : Streamlit, dashboards interactifs
-- **Collaboration** : Git, documentation, formation
+**Machine Learning**
+- **Supervisé** : régression, classification (SVM, Random Forest, AdaBoost, Gradient Boosting, Stacking)
+- **Non supervisé** : clustering, réduction de dimension (PCA, t-SNE), détection d'anomalies
+- **Séries temporelles** : modélisation Prophet, feature engineering cyclique
+- **Systèmes de recommandation** : filtrage collaboratif, SVD, TF-IDF (notions)
+- **Reinforcement Learning** : Q-learning, SARSA (notions — certification DataScientest)
+
+**Deep Learning**
+- **TensorFlow 2.x / Keras** : CNN, RNN/LSTM/GRU, Transfer Learning (EfficientNet, VGG16), tf.data, callbacks
+- **PyTorch** : RNN/LSTM (notions)
+- **Computer Vision** : OpenCV (pipeline complet : filtrage, détection de contours, morphologie), Tesseract OCR
+
+**NLP & IA générative**
+- **NLP appliqué** : TF-IDF, embeddings, génération de contenu
+- **APIs OpenAI** : chatbot métier, synthèse, génération de slides
+
+**Data Viz**
+- **Matplotlib, Seaborn, Plotly** : EDA, visualisation interactive
+- **Power BI, Tableau** : dashboards métier
+- **Streamlit** : applications data interactives
+
+**MLOps & Environnement**
+- **Git / GitHub** : versioning, collaboration
+- **Jupyter, VS Code** : développement
+- **Docker** (notions), **CI/CD** (bases), **Linux** (notions)
+- **Spark / Big Data** (notions — certification DataScientest)
 
 ## 🎯 Mes valeurs
 
