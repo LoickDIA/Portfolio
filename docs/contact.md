@@ -92,8 +92,7 @@ description: "Vous cherchez un Data Scientist capable de passer du prototype à 
 
 ### Langues
 - **Français** : Langue maternelle
-- **Anglais** : Courant (C1)
-- **Espagnol** : Intermédiaire (B2)
+- **Anglais** : B2 — TOEIC 870
 
 ## 💬 Formulaire de contact
 
@@ -127,43 +126,29 @@ description: "Vous cherchez un Data Scientist capable de passer du prototype à 
 
 ## 📍 Localisation
 
-### Paris, France
-- **Métro** : Ligne 1, 4, 7, 11
-- **RER** : A, B, C, D
-- **Bus** : Nombreuses lignes
-- **Parking** : Places disponibles
-
-### Déplacements
-- **France** : Déplacements possibles
-- **Europe** : Déplacements occasionnels
-- **International** : Visioconférence privilégiée
+### Grenoble, France
+- Disponible pour des missions en remote ou sur site (Grenoble, Paris, déplacements ponctuels)
+- Visioconférence pour les collaborations à distance
 
 ## 🤝 Références
 
-### Clients précédents
-- **Valmed** : Projet OCR médical (4 mois)
-- **Kéa Partners** : IA interne d'entreprise (6 mois)
-- **Compagnon Immobilier** : Pipeline ML (3 mois)
+### Expériences récentes
+- **Valmed** : Freelance Data Scientist — OCR médical (06–10/2025, 4 mois)
+- **Kéa Partners** : Stage Data Scientist — IA interne (10–12/2024, 2 mois)
+- **DataScientest** : Certification RNCP niv.7 — Prédiction immobilière (2025)
 
-### Témoignages
-> *"Loïck a su comprendre nos besoins et livrer une solution parfaitement adaptée. Son expertise technique et sa communication sont exceptionnelles."*  
-> **— Directeur Technique, Valmed**
-
-> *"Collaboration excellente sur un projet complexe de machine learning. Loïck a su expliquer les concepts techniques de manière claire et accessible."*  
-> **— Data Scientist, Kéa Partners**
 
 ## 📞 Contact direct
 
 ### Appel téléphonique
-**+33 6 XX XX XX XX**
+**+33 6 74 36 31 49**
 
 ### Visioconférence
 **Zoom, Teams, Google Meet**
 
 ### Réseaux sociaux
-- **LinkedIn** : [linkedin.com/in/loick-dernoncourt](https://linkedin.com/in/loick-dernoncourt)
-- **Twitter** : [@loick_dernoncourt](https://twitter.com/loick_dernoncourt)
-- **GitHub** : [github.com/loick-dernoncourt](https://github.com/loick-dernoncourt)
+- **LinkedIn** : [linkedin.com/in/loick-dernoncourt-241b8b123](https://linkedin.com/in/loick-dernoncourt-241b8b123)
+- **GitHub** : [github.com/LoickDIA](https://github.com/LoickDIA)
 
 ## 🚀 Actions rapides
 

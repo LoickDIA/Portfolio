@@ -51,15 +51,15 @@ Je combine expertise technique et vision business pour livrer des solutions qui 
 ## 🛠️ Stack technique
 
 **Langages & Frameworks**
-- **Python** : pandas, scikit-learn, PyTorch, Streamlit
+- **Python** : pandas, NumPy, scikit-learn, XGBoost, Prophet, Streamlit
 - **Data** : SQL, ETL, APIs, bases de données
-- **MLOps** : Docker, CI/CD, monitoring basique
-- **Cloud** : AWS, déploiement, architecture
+- **MLOps** : Git, Docker (notions), CI/CD (bases)
+- **Visualisation** : Matplotlib, Seaborn, Power BI, Tableau, Streamlit
 
 **Domaines d'expertise**
-- **Machine Learning** : Classification, régression, clustering
-- **Computer Vision** : OCR, traitement d'images, OpenCV
-- **NLP** : Chatbots, génération de contenu, APIs
+- **Machine Learning** : Régression, séries temporelles, clustering, feature engineering
+- **Computer Vision** : OCR, traitement d'images, OpenCV, Tesseract
+- **NLP** : Chatbots, génération de contenu, APIs OpenAI
 - **Visualisation** : Dashboards interactifs, Streamlit
 
 ## 🚀 Actions rapides

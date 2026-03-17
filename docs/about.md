@@ -7,11 +7,11 @@ description: "Parcours de 1-2 ans en Data Science avec focus sur l'impact métie
 
 ## 🎯 Parcours en bref
 
-**Data Scientist avec 1–2 ans d'expérience réelle**, je me spécialise dans la transformation de données complexes en solutions actionnables. Mon parcours récent couvre trois domaines clés :
+**Ingénieur business reconverti en Data Scientist**, je construis des solutions data orientées usage, du prototypage au déploiement. Mon parcours couvre l'OCR médical, l'IA interne d'entreprise et la prédiction immobilière.
 
-- **Valmed (06–10/2025)** : OCR médical automatisé avec Python, Tesseract et OpenCV
-- **Kéa Partners (10/2024–03/2025)** : IA interne (chatbot métier, génération slides, synthèse réunions)
-- **Compagnon Immobilier (03–06/2025)** : Pipeline ML de prédiction immo (DVF, DPE, INSEE)
+- **Valmed (06–10/2025)** : Freelance — OCR médical automatisé avec Python, Tesseract et OpenCV
+- **Kéa Partners (10–12/2024)** : Stage — IA interne (chatbot métier, génération slides, synthèse réunions)
+- **DataScientest 2025** : Projet certif — Pipeline ML de prédiction immo (DVF, DPE, INSEE)
 
 ## 🔬 Vision de la data : impact & rigueur
 
@@ -64,16 +64,16 @@ Je privilégie une approche **business-first** : comprendre le besoin métier av
 ## 🛠️ Stack technique
 
 **Langages & Frameworks**
-- **Python** : pandas, scikit-learn, PyTorch, Streamlit
+- **Python** : pandas, NumPy, scikit-learn, XGBoost, Prophet, Streamlit
 - **Computer Vision** : OpenCV, Tesseract, traitement d'images
 - **NLP** : APIs OpenAI, chatbots, génération de contenu
 - **Data** : SQL, ETL, bases de données, APIs
 
-**Outils & Déploiement**
-- **MLOps** : Docker, CI/CD, monitoring basique
-- **Cloud** : AWS, architecture scalable
-- **Visualisation** : Streamlit, dashboards interactifs
-- **Collaboration** : Git, documentation, formation
+**Outils & Environnement**
+- **MLOps** : Git, GitHub, Docker (notions), CI/CD (bases)
+- **Visualisation** : Matplotlib, Seaborn, Power BI, Tableau, Streamlit
+- **Environnement** : Jupyter, VS Code, Linux (notions)
+- **Collaboration** : Documentation, formation, reporting
 
 ## 🎯 Mes valeurs
 
@@ -116,3 +116,32 @@ Rester à jour avec les dernières technologies tout en maîtrisant les fondamen
 </div>
 
 **→ [Voir mes projets phares](portfolio-reel.md) | [Découvrir ma méthodologie](methodologie.md)**
+
+---
+
+## 🗂️ Parcours complet
+
+### Expériences professionnelles
+
+| Période | Poste | Entreprise |
+|---------|-------|------------|
+| 06–10/2025 | Freelance Data Scientist | Valmed |
+| 10–12/2024 | Data Scientist Intern | Kéa Partners — Paris |
+| 09/2022–08/2024 | Conseiller Assurance | Groupama — Crolles |
+| 11/2020–05/2021 | Consultant Junior | Grenoble École de Management |
+
+**Groupama (09/2022–08/2024)** — Analyse de portefeuille clients (SQL, Excel) pour ciblage risque et priorisation commerciale. Pilotage de campagnes de cross-sell basées data.
+
+**GEM (11/2020–05/2021)** — Missions de conseil pour start-ups/PME : stratégie, développement commercial, levée de fonds.
+
+### Formation
+
+- **Certification Data Scientist** — DataScientest (2025) — RNCP niveau 7 : Machine Learning, Deep Learning, MLOps, Big Data (Spark)
+- **Mastère Spécialisé Entrepreneurs** — Grenoble École de Management (10/2020–04/2021)
+- **Licence Pro Assurance, Banque, Finance** — Grenoble IAE (09/2019–08/2020)
+
+### Langues & Centres d'intérêt
+
+- **Français** : langue maternelle | **Anglais** : B2 — TOEIC 870
+- **Volley-ball** : 15 ans en compétition, 6 ans coach U17/seniors
+- **Game design** : co-fondateur du studio Strana (prototypage Unity)
